@@ -4,10 +4,7 @@ CampusHub is a comprehensive digital ecosystem designed to centralize and enhanc
 ## Project Demo
 https://github.com/user-attachments/assets/04c80b66-0798-4233-a825-bfa89170a846
 
-**Use your preferred IDE**
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
+## Some Insight Glimpses
 🏁 Getting Started
 
 Prerequisites
@@ -29,6 +26,8 @@ npm i
 # Step 4: Start the development server with auto-reloading and an instant preview.
 npm run dev
 ```
+
+
 ## Features and Folder Structure for this project?
 ```sh
 campusHub/
