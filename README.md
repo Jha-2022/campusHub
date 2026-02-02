@@ -30,6 +30,20 @@ npm i
 npm run dev
 ```
 
+##🚀 Features
+
+- Dashboard: Centralized view of campus activities, upcoming events, and personal statistics.
+
+- Clubs & Organizations: Discover, join, and manage campus clubs with dedicated profiles and member lists.
+
+- Event Management: Browse upcoming campus events, RSVP, and track your schedule.
+
+- Resource Center: Access and share academic materials, campus guides, and helpful links.
+
+- Analytics: Visualized data insights for student engagement and club performance.
+
+- Messaging: Built-in communication tools for collaboration between students and organizations.
+
 ## What technologies are used for this project?
 
 🛠️ Tech Stack
