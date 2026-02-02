@@ -1,19 +1,7 @@
 # campusHub
-  https://github.com/Jha-2022/campusHub/blob/main/frontend/assets/campuHubDemo%20(1).mp4
+
 ## Project Demo
- [demo video] https://github.com/Jha-2022/campusHub/blob/main/frontend/public/campuHubDemo.mp4
-<video width="640" height="360" controls>
-  <source src= "https://github.com/Jha-2022/campusHub/blob/main/frontend/public/campuHubDemo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-<iframe width="560" height="315" src="https://github.com/Jha-2022/campusHub/blob/main/frontend/public/campuHubDemo.mp4" title="caomushub" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>   
-
-<a> https://github.com/Jha-2022/campusHub/blob/main/frontend/public/campuHubDemo.mp4  </a>
-## How can I edit this code?
-
-There are several ways of editing your application.
-
+https://github.com/user-attachments/assets/04c80b66-0798-4233-a825-bfa89170a846
 
 **Use your preferred IDE**
 
