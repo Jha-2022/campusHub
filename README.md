@@ -1,6 +1,9 @@
 # campusHub
 
 ## Project Demo
+
+<iframe width="560" height="315" src="https://github.com/Jha-2022/campusHub/blob/main/frontend/public/campuHubDemo.mp4" title="caomushub" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>   
+
 <a> https://github.com/Jha-2022/campusHub/blob/main/frontend/public/campuHubDemo.mp4  </a>
 ## How can I edit this code?
 
