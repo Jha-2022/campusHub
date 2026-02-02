@@ -30,6 +30,55 @@ npm i
 npm run dev
 ```
 ## Features and Folder Structure for this project?
+```sh
+campusHub/
+├── backend/
+│   ├── .env                    # Environment variables
+│   ├── package.json            # Backend dependencies and scripts
+│   └── server.js               # Entry point for the Express/Node server
+├── frontend/
+│   ├── public/                 # Static assets
+│   │   ├── placeholder.svg
+│   │   └── robots.txt
+│   ├── src/
+│   │   ├── components/         # React components
+│   │   │   ├── analytics/      # Charts and data visualization
+│   │   │   ├── clubs/          # Club management components
+│   │   │   ├── dashboard/      # Overview widgets
+│   │   │   ├── events/         # Event cards and lists
+│   │   │   ├── layout/         # Header, Sidebar, and MainLayout
+│   │   │   ├── resources/      # Academic resource components
+│   │   │   ├── ui/             # Reusable Shadcn UI primitives
+│   │   │   └── NavLink.tsx
+│   │   ├── contexts/           # AppContext for global state
+│   │   ├── hooks/              # Custom hooks (toast, mobile detection)
+│   │   ├── lib/                # Utilities and mock data
+│   │   ├── pages/              # Main view components (Dashboard, Clubs, etc.)
+│   │   ├── test/               # Vitest configuration and example tests
+│   │   ├── types/              # TypeScript definitions
+│   │   ├── App.css
+│   │   ├── App.tsx             # Main application component
+│   │   ├── index.css           # Global styles
+│   │   ├── main.tsx            # React entry point
+│   │   └── vite-env.d.ts
+│   ├── .gitignore
+│   ├── components.json         # Shadcn configuration
+│   ├── eslint.config.js
+│   ├── index.html              # HTML entry point
+│   ├── package.json            # Frontend dependencies
+│   ├── package-lock.json
+│   ├── postcss.config.js
+│   ├── tailwind.config.ts      # Styling configuration
+│   ├── tsconfig.json           # TypeScript configuration
+│   ├── tsconfig.app.json
+│   ├── tsconfig.node.json
+│   ├── vite.config.ts          # Vite build tool configuration
+│   └── vitest.config.ts        # Test runner configuration
+├── .gitignore
+├── bun.lockb                   # Bun lockfile
+├── LICENSE                     # MIT License
+└── README.md                   # Project documentation
+```
 🚀 Features
 
 - Dashboard: Centralized view of campus activities, upcoming events, and personal statistics.
